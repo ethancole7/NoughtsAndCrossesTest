@@ -4,7 +4,9 @@ using System.Diagnostics;
 namespace NoughtsAndCrosses
 {
     class Program
+
     {
+        //PUSH FROM MACCC
         public static char[,] board = new char[3, 3] { { '_', '_', '_' }, { '_', '_', '_' }, { '_', '_', '_' } };
         public static char computerSymbol;
         public static char playersSymbol;
